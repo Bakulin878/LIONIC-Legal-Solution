@@ -1,0 +1,18 @@
+{
+    "liveServer.settings.port": 5501,
+    "editor.tabSize": 2,
+    "editor.smoothScrolling": true,
+    "editor.fontSize": 14,
+    "editor.minimap.enabled": false,
+    "editor.minimap.autohide": false,
+    "breadcrumbs.enabled": false,
+    "breadcrumbs.icons": true,
+    "breadcrumbs.showArrays": true,
+    "editor.renderControlCharacters": true,
+    "editor.detectIndentation": true,
+    "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "expand",
+    "emmet.triggerExpansionOnTab": false,
+    "editor.renderWhitespace": "selection",
+    "editor.cursorStyle": "line",
+    "editor.hover.enabled": false
+}
